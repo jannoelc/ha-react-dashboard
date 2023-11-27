@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.icon {
+  fill: currentColor;
+  width: 1em;
+  height: 1em;
+}
